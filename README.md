@@ -1,5 +1,7 @@
-[![MOJOliciousFTW's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOJOliciousFTW)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 
+![MOJOliciousFTW's github stats](https://github-readme-stats.vercel.app/api?username=MOJOliciousFTW&show_icons=true&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOJOliciousFTW&theme=dracula&layout=compact&hide=jupyter%20notebook)
 
 <!--
 **MOJOliciousFTW/MOJOliciousFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
