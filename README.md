@@ -1,4 +1,4 @@
-[![MOJOliciousFFTW's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOJOliciousFFTW)](https://github.com/anuraghazra/github-readme-stats)
+[![MOJOliciousFTW's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOJOliciousFTW)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
