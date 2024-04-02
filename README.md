@@ -7,6 +7,9 @@
   <a href="https://www.credly.com/badges/d027b2c6-e2b4-4d6e-9d23-7090df187b5f/public_url">
     <img src="https://github.com/MOJOliciousFTW/MOJOliciousFTW/assets/29371531/49264bf8-56b9-4aa4-b37f-622d7fb76dd5" />
   </a>
+  <a href="https://www.credly.com/badges/ee10d1ac-3dd1-4c96-9580-85f893632715/public_url">
+    <img src="https://github.com/MOJOliciousFTW/MOJOliciousFTW/assets/29371531/43adbf30-41d4-4ab9-b4cf-4a1495797134" />
+  </a>
 </p>
 
 Note: Personal/private GitHub stats only. Enterprise Managed User (EMU) stats not included here.
